@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewBaseBall</string>
+    <string name="opponent">opponent</string>
+    <string name="opponent_team">相手チーム名</string>
+    <string name="日付">date</string>
+    <string name="date">日付</string>
+    <string name="time">時間</string>
+    <string name="ballpark">球場</string>
+</resources>
